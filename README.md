@@ -60,13 +60,13 @@ As a user …
 5. I want to mark a todo item as done so that I can track my progress
 6. I want to view my todo list so that I can choose what to do next
 7. I want to set reminders for my todo items so that I can be notified about upcoming tasks
-8. I want to add a todo item so that I can keep track of tasks
-9. I want to edit a todo item so that I can update task details
-10. I want to sort my todo list by priority or due date so that I can prioritize my tasks
-11. I want to search for a todo item so that I can quickly find specific tasks
-12. I want to set due dates for my todo items so that I can manage my time effectively
-13. I want to unmark a todo item as done so that I can revisit tasks
-14. When I open the app, I want to see my existing todo list so that I can start working on my tasks
+8. I want to add a todo item so that I can keep track of tasks yes
+9. I want to edit a todo item so that I can update task details no
+10. I want to sort my todo list by priority or due date so that I can prioritize my tasks no
+11. I want to search for a todo item so that I can quickly find specific tasks no
+12. I want to set due dates for my todo items so that I can manage my time effectively no
+13. I want to unmark a todo item as done so that I can revisit tasks yes
+14. When I open the app, I want to see my existing todo list so that I can start working on my tasks yes
 
 ---
 
