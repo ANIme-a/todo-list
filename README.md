@@ -53,13 +53,13 @@ Here are a list of user stories. All of them are about a regular user, so we'll 
 
 As a user …
 
-1. I want to categorize my todo items so that I can organize my tasks better
-2. I want to remove a todo item so that I can manage my tasks
-3. I want to save my todo list so that I can keep my changes when I quit
-4. I want to filter my todo list by done or not done items so that I can focus on what needs to be done
-5. I want to mark a todo item as done so that I can track my progress
-6. I want to view my todo list so that I can choose what to do next
-7. I want to set reminders for my todo items so that I can be notified about upcoming tasks
+1. I want to categorize my todo items so that I can organize my tasks better: No
+2. I want to remove a todo item so that I can manage my tasks: Yes
+3. I want to save my todo list so that I can keep my changes when I quit: Yes
+4. I want to filter my todo list by done or not done items so that I can focus on what needs to be done: No
+5. I want to mark a todo item as done so that I can track my progress: Yes
+6. I want to view my todo list so that I can choose what to do next: Yes
+7. I want to set reminders for my todo items so that I can be notified about upcoming tasks: No
 8. I want to add a todo item so that I can keep track of tasks
 9. I want to edit a todo item so that I can update task details
 10. I want to sort my todo list by priority or due date so that I can prioritize my tasks
